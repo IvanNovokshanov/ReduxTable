@@ -1,0 +1,28 @@
+.data {
+	width: 200px;
+	background-color: rgb(244, 251, 219);
+}
+TABLE {
+	border-collapse: collapse;
+	text-align: center;
+}
+TD,
+TH {
+	padding: 3px;
+	border: 1px solid black;
+}
+.fields {
+	color: brown;
+}
+.check_box {
+	width: 20px;
+	background-color: rgb(244, 251, 219);
+}
+.edit {
+	width: 120px;
+	background-color: rgb(244, 251, 219);
+}
+.people_counter {
+	background-color: rgb(244, 251, 219);
+	width: 200px;
+}

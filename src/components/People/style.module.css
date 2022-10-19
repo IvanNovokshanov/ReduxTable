@@ -1,0 +1,31 @@
+.fields {
+	color: chocolate;
+}
+TABLE {
+	/* width: 300px; */
+	border-collapse: collapse;
+	text-align: center;
+}
+TD,
+TH {
+	padding: 3px;
+	border: 1px solid black;
+}
+.fields {
+	color: brown;
+}
+.first_name {
+	width: 200px;
+}
+.last_name {
+	width: 200px;
+}
+.company_name {
+	width: 200px;
+}
+.position {
+	width: 200px;
+}
+.edit {
+	width: 120px;
+}

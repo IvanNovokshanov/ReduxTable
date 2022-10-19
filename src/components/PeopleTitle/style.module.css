@@ -1,0 +1,30 @@
+.title {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-bottom: 30px;
+}
+.title_text {
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+.check_box {
+	padding-bottom: 10px;
+}
+.delete {
+	margin-bottom: 10px;
+	background-color: rgb(246, 216, 216);
+	border: 1px solid black;
+	border-radius: 3px;
+}
+.input_form_company {
+	margin-right: 5px;
+}
+.input_form {
+	margin-bottom: 10px;
+}
+.add {
+	background-color: rgb(206, 243, 212);
+	border: 1px solid black;
+	border-radius: 3px;
+}
